@@ -51,6 +51,9 @@
     <ClCompile Include="Camera.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EBO.h">
@@ -71,9 +74,15 @@
     <ClInclude Include="Camara.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="default.frag.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="default.frag">
+    <None Include="default.frag.cpp">
       <Filter>Archivos de recursos\Shaders</Filter>
     </None>
     <None Include="default.vert">
@@ -85,6 +94,7 @@
     <None Include="light.frag">
       <Filter>Archivos de recursos\Shaders</Filter>
     </None>
+    <None Include="default.frag" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="corazon.png">
