@@ -8,6 +8,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab10", "Lab10", "{6E331F26-F68C-4D2E-B49C-5AF4D237E48E}"
 	ProjectSection(SolutionItems) = preProject
 		a.txt = a.txt
+		[ 13 - Iluminacion de pinto V2]\res\images\container2.png = [ 13 - Iluminacion de pinto V2]\res\images\container2.png
+		[ 13 - Iluminacion de pinto V2]\res\images\container2_specular.png = [ 13 - Iluminacion de pinto V2]\res\images\container2_specular.png
+		[ 13 - Iluminacion de pinto V2]\res\images\image1.jpg = [ 13 - Iluminacion de pinto V2]\res\images\image1.jpg
+		[ 13 - Iluminacion de pinto V2]\res\images\image2.png = [ 13 - Iluminacion de pinto V2]\res\images\image2.png
+		[ 13 - Iluminacion de pinto V2]\res\images\image3.png = [ 13 - Iluminacion de pinto V2]\res\images\image3.png
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[ 9 - Materiales]", "[Materiales] Lab10\[Materiales] Lab10.vcxproj", "{4B9D37BB-37EA-4BF2-9577-5DE5DD53A222}"
@@ -23,6 +28,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[ 13 - Iluminacion de pinto V2]", "[ 13 - Iluminacion de pinto V2]\[ 13 - Iluminacion de pinto V2].vcxproj", "{8FBB3549-4ABC-461A-9C09-12B995A6BD2A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[ 14 - Combinacion de luces direccionales]", "[ 14 - Combinacion de luces direccionales]\[ 14 - Combinacion de luces direccionales].vcxproj", "{3079DFC4-28D4-4F57-8C47-71967506F0B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab10_9", "..\..\..\..\Downloads\Lab10\Lab10.vcxproj", "{A007464E-367F-40B1-945B-66D54AEBA460}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -96,6 +103,14 @@ Global
 		{3079DFC4-28D4-4F57-8C47-71967506F0B5}.Release|x64.Build.0 = Release|x64
 		{3079DFC4-28D4-4F57-8C47-71967506F0B5}.Release|x86.ActiveCfg = Release|Win32
 		{3079DFC4-28D4-4F57-8C47-71967506F0B5}.Release|x86.Build.0 = Release|Win32
+		{A007464E-367F-40B1-945B-66D54AEBA460}.Debug|x64.ActiveCfg = Debug|x64
+		{A007464E-367F-40B1-945B-66D54AEBA460}.Debug|x64.Build.0 = Debug|x64
+		{A007464E-367F-40B1-945B-66D54AEBA460}.Debug|x86.ActiveCfg = Debug|Win32
+		{A007464E-367F-40B1-945B-66D54AEBA460}.Debug|x86.Build.0 = Debug|Win32
+		{A007464E-367F-40B1-945B-66D54AEBA460}.Release|x64.ActiveCfg = Release|x64
+		{A007464E-367F-40B1-945B-66D54AEBA460}.Release|x64.Build.0 = Release|x64
+		{A007464E-367F-40B1-945B-66D54AEBA460}.Release|x86.ActiveCfg = Release|Win32
+		{A007464E-367F-40B1-945B-66D54AEBA460}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,6 +123,7 @@ Global
 		{74A428DE-45DC-43EB-9842-64E3D47FB934} = {6E331F26-F68C-4D2E-B49C-5AF4D237E48E}
 		{8FBB3549-4ABC-461A-9C09-12B995A6BD2A} = {6E331F26-F68C-4D2E-B49C-5AF4D237E48E}
 		{3079DFC4-28D4-4F57-8C47-71967506F0B5} = {6E331F26-F68C-4D2E-B49C-5AF4D237E48E}
+		{A007464E-367F-40B1-945B-66D54AEBA460} = {6E331F26-F68C-4D2E-B49C-5AF4D237E48E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {941273F5-F952-4600-B91F-07512AF99185}

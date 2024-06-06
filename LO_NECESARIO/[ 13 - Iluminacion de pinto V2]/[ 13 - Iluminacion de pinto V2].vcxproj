@@ -25,6 +25,21 @@
     <ClInclude Include="Camera.h" />
     <ClInclude Include="Shader.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\images\container2.png">
+      <DeploymentContent>true</DeploymentContent>
+    </Image>
+    <Image Include="res\images\container2_specular.png" />
+    <Image Include="res\images\image1.jpg" />
+    <Image Include="res\images\image2.png" />
+    <Image Include="res\images\image3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\shaders\lamp.frag" />
+    <None Include="res\shaders\lamp.vs" />
+    <None Include="res\shaders\lighting.frag" />
+    <None Include="res\shaders\lighting.vs" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

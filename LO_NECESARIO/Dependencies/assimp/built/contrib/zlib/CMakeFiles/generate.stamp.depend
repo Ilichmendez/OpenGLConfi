@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/contrib/zlib/CMakeLists.txt
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/contrib/zlib/zconf.h.cmakein
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/contrib/zlib/zlib.pc.cmakein

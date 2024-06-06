@@ -27,4 +27,27 @@
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\images\container2.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="res\images\container2_specular.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="res\images\image1.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="res\images\image2.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="res\images\image3.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\shaders\lamp.frag" />
+    <None Include="res\shaders\lamp.vs" />
+    <None Include="res\shaders\lighting.frag" />
+    <None Include="res\shaders\lighting.vs" />
+  </ItemGroup>
 </Project>

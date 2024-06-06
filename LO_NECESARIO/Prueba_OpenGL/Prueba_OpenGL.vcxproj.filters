@@ -22,6 +22,9 @@
     <Filter Include="Archivos de recursos\Textures">
       <UniqueIdentifier>{44a8fd6c-8920-4a98-9a65-868e39c677a2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Archivos de recursos\res">
+      <UniqueIdentifier>{347dbbf9-4566-47b6-a270-93f7a1c282da}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
