@@ -107,4 +107,7 @@
       <Filter>Archivos de recursos\Textures</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\a.txt" />
+  </ItemGroup>
 </Project>

@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prueba_OpenGL", "Prueba_OpenGL\Prueba_OpenGL.vcxproj", "{1624031B-2DE8-423D-98A9-19E575717D76}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab10", "Lab10", "{6E331F26-F68C-4D2E-B49C-5AF4D237E48E}"
+	ProjectSection(SolutionItems) = preProject
+		a.txt = a.txt
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[ 9 - Materiales]", "[Materiales] Lab10\[Materiales] Lab10.vcxproj", "{4B9D37BB-37EA-4BF2-9577-5DE5DD53A222}"
 EndProject

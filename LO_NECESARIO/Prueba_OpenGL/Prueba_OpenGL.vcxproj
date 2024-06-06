@@ -52,6 +52,9 @@
     <Image Include="corazon.png" />
     <Image Include="kirby.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\a.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
