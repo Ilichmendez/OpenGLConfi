@@ -1,0 +1,13 @@
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/CMakeFiles/uninstall.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/CMakeFiles/INSTALL.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/CMakeFiles/ALL_BUILD.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/contrib/zlib/CMakeFiles/zlibstatic.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/contrib/zlib/CMakeFiles/INSTALL.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/code/CMakeFiles/assimp.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/code/CMakeFiles/INSTALL.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/test/CMakeFiles/unit.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/test/CMakeFiles/INSTALL.dir
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/test/headercheck/CMakeFiles/INSTALL.dir

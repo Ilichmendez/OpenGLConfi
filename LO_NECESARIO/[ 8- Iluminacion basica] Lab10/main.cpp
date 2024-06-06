@@ -9,7 +9,11 @@
 #include <GLFW/glfw3.h>
 
 // Other Libs
+<<<<<<< HEAD
 #include <SOIL2/SOIL2.h>
+=======
+#include <SOIL2.h>
+>>>>>>> 497336115f65a23ad886e5d1ceb77ef1d954dd75
 // GLM Mathematics
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
@@ -94,8 +98,13 @@ int main( )
     
     
     // Build and compile our shader program
+<<<<<<< HEAD
     Shader lightingShader( "res/shaders/lighting.vs", "res/shaders/lighting.frag" );
     Shader lampShader( "res/shaders/lamp.vs", "res/shaders/lamp.frag" );
+=======
+    Shader lightingShader( "lighting.vs", "lighting.frag" );
+    Shader lampShader( "lamp.vs", "lamp.frag" );
+>>>>>>> 497336115f65a23ad886e5d1ceb77ef1d954dd75
     
     // Set up vertex data (and buffer(s)) and attribute pointers
     GLfloat vertices[] =

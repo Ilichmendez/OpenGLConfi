@@ -1,0 +1,39 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/CMakeLists.txt
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/assimp.pc.in
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/CMakeFiles/3.29.3/CMakeCCompiler.cmake
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/CMakeFiles/3.29.3/CMakeRCCompiler.cmake
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/built/CMakeFiles/3.29.3/CMakeSystem.cmake
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/cmake-modules/FindPkgMacros.cmake
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/cmake-modules/PrecompiledHeader.cmake
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/cmake-modules/assimp-plain-config.cmake.in
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/cmake-modules/cmake_uninstall.cmake.in
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/include/assimp/config.h.in
+C:/Users/mf226/Downloads/PGproject/Dependencies/assimp/revision.h.in
